@@ -1,6 +1,6 @@
 # Jira demo
 
-This is a demo script to simulate the connection of Gridly and Jira via Lambda function of the Gridly's Trigger. User can create a Jira/Asana/Trello/Timecamp ticket using LQA ticket of Gridly. 
+This is a demo script to simulate the connection of Gridly and Jira via Lambda function of the Gridly's Trigger. User can create a Jira ticket using LQA ticket of Gridly. 
 
 ## Configuration
 
